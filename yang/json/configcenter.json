@@ -1,0 +1,98 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "GO代理",
+                "key": "goProxyProbe",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": "探测"
+            }
+        ]
+    },
+    {
+        "name": "有喜",
+        "list": [
+            {
+                "name": "清除Cookie",
+                "key": "cleanUcCookie",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": ""
+            },
+            {
+                "name": "设置Cookie",
+                "key": "setUcCookie",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "夸氪",
+        "list": [
+            {
+                "name": "清除cookie",
+                "key": "cleanQuarkCookie",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": ""
+            },
+            {
+                "name": "设置cookie",
+                "key": "setQuarkCookie",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "百毒",
+        "list": [
+            {
+                "name": "清除cookie",
+                "key": "cleanBaiduCookie",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": ""
+            },
+            {
+                "name": "设置cookie",
+                "key": "setBaiduCookie",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "天意",
+        "list": [
+            {
+                "name": "清除cookie",
+                "key": "cleanTianyiCookie",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": ""
+            },
+            {
+                "name": "设置cookie",
+                "key": "setTianyiCookie",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "123",
+        "list": [
+            {
+                "name": "清除cookie",
+                "key": "clean123Cookie",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": ""
+            },
+            {
+                "name": "设置cookie",
+                "key": "set123Cookie",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/yang/img/logo.png",
+                "des": ""
+            }
+        ]
+    }
+]

@@ -49,6 +49,7 @@
 广西-音乐广播 FM95.0,http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
 
 电台FM,#genre#
+音乐广播,https://tv-1.iill.top/fm/552
 80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 893音乐广播,https://lhttp-hw.qtfm.cn/live/4846/64k.mp3
 923魅力亞太AsiaFM亞太電台,https://n04a-eu.rcs.revma.com/kydend74hv8uv?rj-ttl=5&rj-tok=AAABk3-PFmIANQOl8U4dGJCCgQ

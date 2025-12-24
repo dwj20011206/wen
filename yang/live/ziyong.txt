@@ -7,19 +7,30 @@
 广西南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 广西南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 广西南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-广西崇左频道,http://180.136.233.111:10099/udp/239.81.0.218:4056
 广西融水电视台,https://live.gxrb.com.cn/gx/rongshui/index.m3u8
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市频道1,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广州番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv?fbl=
-清远新闻综合,https://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
 汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 汕尾文化生活,https://iswtv.swrtv.com/live/whshpd.m3u8
 亚洲新闻台HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.net
+CCTV16 4K,http://140.210.9.18:8800/SuanFaZhibo/live7/ysp.php?id=CCTV164K
+CCTV4K,http://140.210.9.18:8800/SuanFaZhibo/live7/ysp.php?id=CCTV4K
+CCTV8K,http://140.210.9.18:8800/SuanFaZhibo/live7/ysp.php?id=CCTV8K
+
+4K,#genre# 
+北京卫视4k,http://140.210.9.18:8800/SuanFaZhibo/live5/beijing/beijing.php?id=bjws4k
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+河北4K,http://2099.tv12.xyz/11_1764828864661.m3u8
+深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
+CCTV5 体育4K,http://2099.tv12.xyz/3_1764828864661.m3u8
+CCTV4K 超高清,http://2099.tv12.xyz/5_1764828864661.m3u8
+CCTV8K 超高清,http://2099.tv12.xyz/6_1764828864661.m3u8
 
 🇨🇳IPV6央卫,#genre#
-
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225770/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225723/index.m3u8
 CCTV2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/index.m3u8
 CCTV3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225766/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226165/index.m3u8
@@ -157,15 +168,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-
-4K,#genre# 
-浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-广东卫视4K,http://14.153.179.214:8686/udp/239.77.0.27:5146
-深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-北京卫视频4k,http://aiony.top:35455/yhyx/IP-BJWS-4K.m3u8
-四川卫视, https://httop.top/ysp-四川卫视
 
 央卫频道,#genre#
 睛彩竞技高码,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8

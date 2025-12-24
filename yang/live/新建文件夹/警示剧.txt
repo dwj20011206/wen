@@ -1,0 +1,823 @@
+ 🇨🇳插翘难逃,#genre#
+1,https://v.cdnlz19.com/20241016/50400_7e07aff6/index.m3u8?sign=5baa60c16252cf57c8f68e8eba70b631
+2,https://v.cdnlz19.com/20241016/50401_73342870/index.m3u8?sign=4ef9741b03b32a26eee89bf727392898
+3,https://v.cdnlz19.com/20241016/50402_6ce7b793/index.m3u8?sign=484b544a57abe4f2641e7f7aab328e3c
+4,https://v.cdnlz19.com/20241016/50403_79d00a09/index.m3u8?sign=cd6191eecb9cf3a7d888b639cd7491e0
+5,https://v.cdnlz19.com/20241016/50404_4ece7129/index.m3u8?sign=05b4a09cbd5fd80d0868f8f6958cda6d
+6,https://v.cdnlz19.com/20241016/50405_66b61d9f/index.m3u8?sign=436ddf255a9d33af7e0359293153cbe0
+7,https://v.cdnlz19.com/20241016/50406_212cec2a/index.m3u8?sign=b3b4d68ec4697975b60444253b20859d
+8,https://v.cdnlz19.com/20241016/50407_a0f96914/index.m3u8?sign=f807f674431d1267576d16f32807419f
+9,https://v.cdnlz19.com/20241016/50408_8b482440/index.m3u8?sign=faa7a93405ee5bddc76b335a2cd7ef6a
+10,https://v.cdnlz19.com/20241016/50409_aea47bec/index.m3u8?sign=1e41524fc7f23c0386a2324c2e3d923a
+11,https://v.cdnlz19.com/20241016/50410_6eec1179/index.m3u8?sign=55c0ae678381c9389c780566babf69ae
+12,https://v.cdnlz19.com/20241016/50411_76429f41/index.m3u8?sign=495cc6e62e03eee28c970e350cd57fc6
+13,https://v.cdnlz19.com/20241016/50412_72d39a8b/index.m3u8?sign=e456606eafff10f0d3a2297b17bd7b48
+14,https://v.cdnlz19.com/20241016/50413_bb7cfd6e/index.m3u8?sign=745bc1c25a5538e3dae790bea897ad7e
+15,https://v.cdnlz19.com/20241016/50414_2d2e3788/index.m3u8?sign=0356309a02278948769378cfe71d05d7
+16,https://v.cdnlz19.com/20241016/50415_cf607a93/index.m3u8?sign=c38644c7005954ad26a7d9ea17c1276a
+17,https://v.cdnlz19.com/20241016/50416_a1ebd19d/index.m3u8?sign=27cb1d123b0dd0855ed54ae54c5aec2e
+18,https://v.cdnlz19.com/20241016/50417_c3709ff3/index.m3u8?sign=1fc65094a3b536149fa43fd5098d684e
+19,https://v.cdnlz19.com/20241016/50418_fcf58ada/index.m3u8?sign=99acef8ad905104133a1495c21c1aa4f
+20,https://v.cdnlz19.com/20241016/50419_8bb0852f/index.m3u8?sign=fa3cf7a75b55bd08b7198b3dbf2d9a35
+21,https://v.cdnlz19.com/20241016/50420_da913d12/index.m3u8?sign=e3b4641a63dc06f82dc1218d0dca7750
+22,https://v.cdnlz19.com/20241016/50421_098ac2cb/index.m3u8?sign=b1539d2b6c5dcb8c0df04220599d83d2
+23,https://v.cdnlz19.com/20241016/50422_c39609b5/index.m3u8?sign=3cf1fdb865c1f8f276e72ad430e8a3b7
+24,https://v.cdnlz19.com/20241016/50423_d1a83f91/index.m3u8?sign=d588164026dbc8c24a332358477801ce
+25,https://v.cdnlz19.com/20241016/50424_6fc6d376/index.m3u8?sign=8e8095bbd8d3b766e138fbd7c27aea34
+26,https://v.cdnlz19.com/20241016/50425_bab1dd86/index.m3u8?sign=a70c2586c9d6f34b64d7310be08fa799
+27,https://v.cdnlz19.com/20241016/50426_177a3c84/index.m3u8?sign=d766af3f74cdce37d3da11c6c92a1452
+28,https://v.cdnlz19.com/20241016/50427_1d334d21/index.m3u8?sign=93fe7e03ca61e4c9c2c1580360decd95
+29,https://v.cdnlz19.com/20241016/50428_b0f4671b/index.m3u8?sign=41e29cb4ecd9619f589e13530053d91b
+1,https://v.cdnlz19.com/20241016/50400_7e07aff6/index.m3u8
+2,https://v.cdnlz19.com/20241016/50401_73342870/index.m3u8
+3,https://v.cdnlz19.com/20241016/50402_6ce7b793/index.m3u8
+4,https://v.cdnlz19.com/20241016/50403_79d00a09/index.m3u8
+5,https://v.cdnlz19.com/20241016/50404_4ece7129/index.m3u8
+6,https://v.cdnlz19.com/20241016/50405_66b61d9f/index.m3u8
+7,https://v.cdnlz19.com/20241016/50405_66b61d9f/index.m3u8
+8,https://v.cdnlz19.com/20241016/50407_a0f96914/index.m3u8
+9,https://v.cdnlz19.com/20241016/50408_8b482440/index.m3u8
+10,https://v.cdnlz19.com/20241016/50408_8b482440/index.m3u8
+11,https://v.cdnlz19.com/20241016/50410_6eec1179/index.m3u8
+12,https://v.cdnlz19.com/20241016/50411_76429f41/index.m3u8
+13,https://v.cdnlz19.com/20241016/50412_72d39a8b/index.m3u8
+14,https://v.cdnlz19.com/20241016/50413_bb7cfd6e/index.m3u8
+15,https://v.cdnlz19.com/20241016/50414_2d2e3788/index.m3u8
+16,https://v.cdnlz19.com/20241016/50415_cf607a93/index.m3u8
+17,https://v.cdnlz19.com/20241016/50416_a1ebd19d/index.m3u8
+18,https://v.cdnlz19.com/20241016/50416_a1ebd19d/index.m3u8
+19,https://v.cdnlz19.com/20241016/50418_fcf58ada/index.m3u8
+20,https://v.cdnlz19.com/20241016/50419_8bb0852f/index.m3u8
+21,https://v.cdnlz19.com/20241016/50420_da913d12/index.m3u8
+22,https://v.cdnlz19.com/20241016/50421_098ac2cb/index.m3u8
+23,https://v.cdnlz19.com/20241016/50422_c39609b5/index.m3u8
+24,https://v.cdnlz19.com/20241016/50423_d1a83f91/index.m3u8
+25,https://v.cdnlz19.com/20241016/50424_6fc6d376/index.m3u8
+26,https://v.cdnlz19.com/20241016/50425_bab1dd86/index.m3u8
+27,https://v.cdnlz19.com/20241016/50426_177a3c84/index.m3u8
+28,https://v.cdnlz19.com/20241016/50427_1d334d21/index.m3u8
+29,https://v.cdnlz19.com/20241016/50428_b0f4671b/index.m3u8
+
+
+警中警Ⅱ,#genre#
+第一集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC01%E9%9B%86/index.m3u8
+第二集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC02%E9%9B%86/index.m3u8
+第三集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC03%E9%9B%86/index.m3u8
+第四集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC04%E9%9B%86/index.m3u8
+第五集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC05%E9%9B%86/index.m3u8
+第六集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC06%E9%9B%86/index.m3u8
+第七集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC07%E9%9B%86/index.m3u8
+第八集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC08%E9%9B%86/index.m3u8
+第九集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC09%E9%9B%86/index.m3u8
+第十集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC10%E9%9B%86/index.m3u8
+第十一集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC11%E9%9B%86/index.m3u8
+第十二集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC12%E9%9B%86/index.m3u8
+第十三集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC13%E9%9B%86/index.m3u8
+第十四集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC14%E9%9B%86/index.m3u8
+第十五集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC15%E9%9B%86/index.m3u8
+第十六集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC16%E9%9B%86/index.m3u8
+第十七集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC17%E9%9B%86/index.m3u8
+第十八集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC18%E9%9B%86/index.m3u8
+第十九集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC19%E9%9B%86/index.m3u8
+第二十集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC20%E9%9B%86/index.m3u8
+第二十一集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC21%E9%9B%86/index.m3u8
+第二十二集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC22%E9%9B%86/index.m3u8
+第二十三集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC23%E9%9B%86/index.m3u8
+第二十四集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC24%E9%9B%86/index.m3u8
+第二十五集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC25%E9%9B%86/index.m3u8
+第二十六集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC26%E9%9B%86/index.m3u8
+第二十七集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC27%E9%9B%86/index.m3u8
+第二十八集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC28%E9%9B%86/index.m3u8
+第二十九集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC29%E9%9B%86/index.m3u8
+第三十集,https://s2.bfengbf.com/video/jingzhongjing2/%E7%AC%AC30%E9%9B%86/index.m3u8
+刑警使命,#genre#
+
+第一集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC01%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC02%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第三集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC03%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第四集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC04%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第五集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC05%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第六集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC05%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第七集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC07%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第八集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC08%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第九集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC09%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC10%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十一集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC11%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十二集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC12%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十三集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC13%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十四集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC14%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十五集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC15%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十六集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC16%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十七集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC17%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十八集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC18%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十九集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC19%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC20%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十一集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC21%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十二集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC22%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十三集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC23%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十四集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC24%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十五集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC25%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十六集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC26%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十七集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC27%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十八集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC28%E9%9B%86/index.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+
+🇨🇳县委大院,#genre#
+
+县委大院 第一集,https://vip.lz-cdn1.com/20221207/18869_fcb40d51/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第二集,https://vip.lz-cdn1.com/20221207/18868_2b4f8fd4/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第三集,https://vip.lz-cdn1.com/20221208/18909_6b721cd6/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第四集,https://vip.lz-cdn1.com/20221208/18908_209a607f/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第五集,https://vip.lz-cdn1.com/20221209/18943_4e49394d/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第六集,https://vip.lz-cdn1.com/20221209/18942_0796439c/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第七集,https://vip.lzcdn2.com/20221212/22930_8b1262dd/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第八集,https://vip.lzcdn2.com/20221212/22929_6d0e5368/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第九集,https://vip.lzcdn2.com/20221213/22932_5ac31d4a/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第十集,https://vip.lzcdn2.com/20221213/22931_4bf6d2ee/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第十一集,https://vip.lzcdn2.com/20221214/22934_55ffc2c0/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第十二集,https://vip.lzcdn2.com/20221214/22933_421a71e2/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第十三集,https://vip.lzcdn2.com/20221215/22938_eb8d409a/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第十四集,https://vip.lzcdn2.com/20221215/22937_8e126df2/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第十五集,https://vip.lzcdn2.com/20221216/22939_7fa0f40f/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第十六集,https://vip.lzcdn2.com/20221216/22940_9beaa21e/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第十七集,https://vip.lzcdn2.com/20221219/22942_a16ef9d6/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第十八集,https://vip.lzcdn2.com/20221219/22941_340f7024/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第十九集,https://vip.lzcdn2.com/20221220/22944_359a8dae/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第二十集,https://vip.lzcdn2.com/20221220/22943_b7f92ad1/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第二十一集,https://vip.lzcdn2.com/20221221/22947_3578a677/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第二十二集,https://vip.lzcdn2.com/20221221/22946_ba1933da/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第二十三集,https://vip.lzcdn2.com/20221222/22949_0e12e9a5/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+县委大院 第二十四集,https://vip.lzcdn2.com/20221222/22948_55a39af3/1800k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851w
+🇨🇳余罪,#genre#
+1,http://jx.999315.xyz/ffzy/20221212/2558_e2fe373e/index.m3u8
+2,http://jx.999315.xyz/ffzy/20221212/2557_ba0f5b06/index.m3u8
+3,http://jx.999315.xyz/ffzy/20221212/2562_692edae1/index.m3u8
+4,http://jx.999315.xyz/ffzy/20221212/2560_fe13d1d6/index.m3u8
+5,http://jx.999315.xyz/ffzy/20221212/2564_6c7c0149/index.m3u8
+6,http://jx.999315.xyz/ffzy/20221212/2559_1b9097db/index.m3u8
+7,http://jx.999315.xyz/ffzy/20221212/2561_7c12eea8/index.m3u8
+8,http://jx.999315.xyz/ffzy/20221212/2566_0e195317/index.m3u8
+9,http://jx.999315.xyz/ffzy/20221212/2563_d226acb6/index.m3u8
+10,http://jx.999315.xyz/ffzy/20221212/2565_9830d59c/index.m3u8
+11,http://jx.999315.xyz/ffzy/20221212/2567_aa181fc2/index.m3u8
+12,http://jx.999315.xyz/ffzy/20221212/2568_2bd26b3a/index.m3u8
+13,http://jx.999315.xyz/ffzy/20221212/2546_7b2c0289/index.m3u8
+14,http://jx.999315.xyz/ffzy/20221212/2547_fc7ba50b/index.m3u8
+15,http://jx.999315.xyz/ffzy/20221212/2550_2879ecb3/index.m3u8
+16,http://jx.999315.xyz/ffzy/20221212/2548_61e61471/index.m3u8
+17,http://jx.999315.xyz/ffzy/20221212/2545_7672231b/index.m3u8
+18,http://jx.999315.xyz/ffzy/20221212/2549_0d527ab4/index.m3u8
+19,http://jx.999315.xyz/ffzy/20221212/2554_dd53196a/index.m3u8
+20,http://jx.999315.xyz/ffzy/20221212/2556_d9bd4fb2/index.m3u8
+21,http://jx.999315.xyz/ffzy/20221212/2552_7b9d9d9a/index.m3u8
+22,http://jx.999315.xyz/ffzy/20221212/2553_b335254e/index.m3u8
+23,http://jx.999315.xyz/ffzy/20221212/2551_7150faed/index.m3u8
+24,http://jx.999315.xyz/ffzy/20221212/2555_3fcd8764/index.m3u8                
+
+枪杀大案,#genre#
+第一集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC01%E9%9B%86/index.m3u8
+第二集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC02%E9%9B%86/index.m3u8
+第三集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC03%E9%9B%86/index.m3u8
+第四集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC04%E9%9B%86/index.m3u8
+第五集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC05%E9%9B%86/index.m3u8
+第六集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC06%E9%9B%86/index.m3u8
+第七集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC07%E9%9B%86/index.m3u8
+第八集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC08%E9%9B%86/index.m3u8
+第九集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC09%E9%9B%86/index.m3u8
+第十集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC10%E9%9B%86/index.m3u8
+第十一集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC11%E9%9B%86/index.m3u8
+第十二集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC12%E9%9B%86/index.m3u8
+第十三集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC13%E9%9B%86/index.m3u8
+第十四集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC14%E9%9B%86/index.m3u8
+第十五集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC15%E9%9B%86/index.m3u8
+第十六集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC16%E9%9B%86/index.m3u8
+第十七集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC17%E9%9B%86/index.m3u8
+第十八集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC18%E9%9B%86/index.m3u8
+第十九集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC19%E9%9B%86/index.m3u8
+第二十集,https://s3.bfengbf.com/video/121qiangshadaan/%E7%AC%AC20%E9%9B%86/index.m3u8
+极限追捕,#genre#
+第一集,https://vip.ffzy-play1.com/20221206/29292_adb67a7e/2000k/hls/mixed.m3u8
+第二集,https://vip.ffzy-play1.com/20221206/29290_3ba10abe/2000k/hls/mixed.m3u8
+第三集,https://vip.ffzy-play1.com/20221206/29291_31077d01/2000k/hls/mixed.m3u8
+第四集,https://vip.ffzy-play1.com/20221206/29294_d94f4f73/2000k/hls/mixed.m3u8
+第五集,https://vip.ffzy-play1.com/20221206/29295_84518fcd/2000k/hls/mixed.m3u8
+第六集,https://vip.ffzy-play1.com/20221206/29293_de4a3e7a/2000k/hls/mixed.m3u8
+第七集,https://vip.ffzy-play1.com/20221206/29297_7d3bf04f/2000k/hls/mixed.m3u8
+第八集,https://vip.ffzy-play1.com/20221206/29296_c714d1dd/2000k/hls/mixed.m3u8
+第九集,https://vip.ffzy-play1.com/20221206/29298_a89c5e0a/2000k/hls/mixed.m3u8
+第十集,https://vip.ffzy-play1.com/20221206/29299_e608ff43/2000k/hls/mixed.m3u8
+第十一集,https://vip.ffzy-play1.com/20221206/29301_b0ded589/2000k/hls/mixed.m3u8
+第十二集,https://vip.ffzy-play1.com/20221206/29300_e027d188/2000k/hls/mixed.m3u8
+第十三集,https://vip.ffzy-play1.com/20221206/29302_592e0330/2000k/hls/mixed.m3u8
+第十四集,https://vip.ffzy-play1.com/20221206/29303_1d2e544b/2000k/hls/mixed.m3u8
+第十五集,https://vip.ffzy-play1.com/20221206/29304_880ade83/2000k/hls/mixed.m3u8
+第十六集,https://vip.ffzy-play1.com/20221206/29305_84c40c63/2000k/hls/mixed.m3u8
+第十七集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC17%E9%9B%86/index.m3u8
+第十八集,https://vip.ffzy-play1.com/20221206/29306_6585cdb5/2000k/hls/mixed.m3u8
+第十九集,https://vip.ffzy-play1.com/20221206/29308_3c59e65e/2000k/hls/mixed.m3u8
+第二十集,https://vip.ffzy-play1.com/20221206/29309_290df0f6/2000k/hls/mixed.m3u8
+第二十一集,https://vip.ffzy-play1.com/20221206/29310_082a9896/2000k/hls/mixed.m3u8
+第二十二集,https://vip.ffzy-play1.com/20221206/29311_92d50069/2000k/hls/mixed.m3u8
+第二十三集,https://vip.ffzy-play1.com/20221206/29312_4d8546bc/2000k/hls/mixed.m3u8
+第二十四集,https://vip.ffzy-play1.com/20221206/29313_096f9ff1/2000k/hls/mixed.m3u8
+第一集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC01%E9%9B%86/index.m3u8
+第二集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC02%E9%9B%86/index.m3u8
+第三集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC03%E9%9B%86/index.m3u8
+第四集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC04%E9%9B%86/index.m3u8
+第五集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC05%E9%9B%86/index.m3u8
+第六集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC06%E9%9B%86/index.m3u8
+第七集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC07%E9%9B%86/index.m3u8
+第八集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC08%E9%9B%86/index.m3u8
+第九集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC09%E9%9B%86/index.m3u8
+第十集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC10%E9%9B%86/index.m3u8
+第十一集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC11%E9%9B%86/index.m3u8
+第十二集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC12%E9%9B%86/index.m3u8
+第十三集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC13%E9%9B%86/index.m3u8
+第十四集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC14%E9%9B%86/index.m3u8
+第十五集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC15%E9%9B%86/index.m3u8
+第十六集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC16%E9%9B%86/index.m3u8
+第十八集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC18%E9%9B%86/index.m3u8
+第十九集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC19%E9%9B%86/index.m3u8
+第二十集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC20%E9%9B%86/index.m3u8
+第二十一集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC21%E9%9B%86/index.m3u8
+第二十二集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC22%E9%9B%86/index.m3u8
+第二十三集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC23%E9%9B%86/index.m3u8
+第二十四集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC24%E9%9B%86/index.m3u8
+🇨🇳女特警,#genre#
+第一集,https://vip.ffzy-online.com/20221230/42780_b2337be3/2000k/hls/index.m3u8
+第二集,https://vip.ffzy-online.com/20221230/42784_ad1eb2e6/2000k/hls/index.m3u8
+第三集,https://vip.ffzy-online.com/20221230/42781_572e196c/2000k/hls/index.m3u8
+第四集,https://vip.ffzy-online.com/20221230/42785_e33633f7/2000k/hls/index.m3u8
+第五集,https://vip.ffzy-online.com/20221230/42786_aa86ba80/2000k/hls/index.m3u8
+第六集,https://vip.ffzy-online.com/20221230/42787_5245e28b/2000k/hls/index.m3u8
+第七集,https://vip.ffzy-online.com/20221230/42790_a07c538c/2000k/hls/index.m3u8
+第八集,https://vip.ffzy-online.com/20221230/42788_cc3ff8ee/2000k/hls/index.m3u8
+第九集,https://vip.ffzy-online.com/20221230/42789_b44ed7f8/2000k/hls/index.m3u8
+第十集,https://vip.ffzy-online.com/20221230/42791_9f1e5718/2000k/hls/index.m3u8
+第十一集,https://vip.ffzy-online.com/20221230/42794_983f1164/2000k/hls/index.m3u8
+第十二集,https://vip.ffzy-online.com/20221230/42795_611b0570/2000k/hls/index.m3u8
+第十三集,https://vip.ffzy-online.com/20221230/42792_69ee2684/2000k/hls/index.m3u8
+第十四集,https://vip.ffzy-online.com/20221230/42793_9aef0bfe/2000k/hls/index.m3u8
+第十五集,https://vip.ffzy-online.com/20221230/42796_1cfd0cef/2000k/hls/index.m3u8
+第十六集,https://vip.ffzy-online.com/20221230/42797_30eefc3a/2000k/hls/index.m3u8
+第十七集,https://vip.ffzy-online.com/20221230/42798_3d4b54a2/2000k/hls/index.m3u8
+第十八集,https://vip.ffzy-online.com/20221230/42800_cd841686/2000k/hls/index.m3u8
+第十九集,https://vip.ffzy-online.com/20221230/42801_da16d5ac/2000k/hls/index.m3u8
+第二十集,https://vip.ffzy-online.com/20221230/42799_fc1fbb93/2000k/hls/index.m3u8
+第二十一集,https://vip.ffzy-online.com/20221230/42802_3a1a0993/2000k/hls/index.m3u8
+第二十二集,https://vip.ffzy-online.com/20221230/42803_d638b5df/2000k/hls/index.m3u8
+
+暗潮缉凶,#genre#
+第1集,https://hd.ijycnd.com/play/YaOQ5GNd/index.m3u8
+第2集,https://hd.ijycnd.com/play/RdGGQA0d/index.m3u8
+第3集,https://hd.ijycnd.com/play/BeX3kPmd/index.m3u8
+第4集,https://hd.ijycnd.com/play/Rb4gYw6a/index.m3u8
+第5集,https://hd.ijycnd.com/play/QeZ5m3Jd/index.m3u8
+第6集,https://hd.ijycnd.com/play/lejyOyRd/index.m3u8
+第7集,https://hd.ijycnd.com/play/PdyR7PPe/index.m3u8
+第8集,https://hd.ijycnd.com/play/mepGBwNd/index.m3u8
+第9集,https://hd.ijycnd.com/play/9b6kGZQd/index.m3u8
+第10集,https://hd.ijycnd.com/play/YerKBwwa/index.m3u8
+第11集,https://hd.ijycnd.com/play/1aKM9And/index.m3u8
+第12集,https://hd.ijycnd.com/play/YerKVg6a/index.m3u8
+第13集,https://hd.ijycnd.com/play/lejy6GYd/index.m3u8
+第14集,https://hd.ijycnd.com/play/lejy6yzd/index.m3u8
+第15集,https://hd.ijycnd.com/play/YaOQ9Wpd/index.m3u8
+第16集,https://hd.ijycnd.com/play/Rb4gKl1a/index.m3u8
+第17集,https://hd.ijycnd.com/play/DbDBEzxe/index.m3u8
+第18集,https://hd.ijycnd.com/play/penDJBRb/index.m3u8
+第19集,https://hd.ijycnd.com/play/DdwPgORe/index.m3u8
+
+
+迷案追凶,#genre#
+第一集,https://vip.ffzy-play9.com/20221203/15794_431062c4/2000k/hls/mixed.m3u8
+第二集,https://vip.ffzy-play9.com/20221203/15797_18eac762/2000k/hls/mixed.m3u8
+第三集,https://vip.ffzy-play9.com/20221203/15796_09388b65/2000k/hls/mixed.m3u8
+第四集,https://vip.ffzy-play9.com/20221203/15799_a1dadc05/2000k/hls/mixed.m3u8
+第五集,https://vip.ffzy-play9.com/20221203/15798_26652e49/2000k/hls/mixed.m3u8
+第六集,https://vip.ffzy-play9.com/20221203/15800_9117fff6/2000k/hls/mixed.m3u8
+第七集,https://vip.ffzy-play9.com/20221203/15804_802b5d68/2000k/hls/mixed.m3u8
+第八集,https://vip.ffzy-play9.com/20221203/15801_8ce896aa/2000k/hls/mixed.m3u8
+第九集,https://vip.ffzy-play9.com/20221203/15803_c364a291/2000k/hls/mixed.m3u8
+第十集,https://vip.ffzy-play9.com/20221203/15802_4ddc70ad/2000k/hls/mixed.m3u8
+第十一集,https://vip.ffzy-play9.com/20221203/15805_a99502fa/2000k/hls/mixed.m3u8
+第十二集,https://vip.ffzy-play9.com/20221203/15806_b0f14951/2000k/hls/mixed.m3u8
+第十三集,https://vip.ffzy-play9.com/20221203/15810_14b3a02f/2000k/hls/mixed.m3u8
+第十四集,https://vip.ffzy-play9.com/20221203/15808_e972a898/2000k/hls/mixed.m3u8
+第十五集,https://vip.ffzy-play9.com/20221203/15809_1f964b7f/2000k/hls/mixed.m3u8
+第十六集,https://vip.ffzy-play9.com/20221203/15807_cf642a2c/2000k/hls/mixed.m3u8
+第十七集,https://vip.ffzy-play9.com/20221203/15813_9515efa7/2000k/hls/mixed.m3u8
+第十八集,https://vip.ffzy-play9.com/20221203/15812_058850eb/2000k/hls/mixed.m3u8
+第十九集,https://vip.ffzy-play9.com/20221203/15811_b75d7db6/2000k/hls/mixed.m3u8
+第二十集,https://vip.ffzy-play9.com/20221203/15814_d48dc154/2000k/hls/mixed.m3u8
+第二十一集,https://vip.ffzy-play9.com/20221203/15815_0cc4198c/2000k/hls/mixed.m3u8
+第二十二集,https://vip.ffzy-play9.com/20221203/15817_d1d47d54/2000k/hls/mixed.m3u8
+
+极限追捕,#genre#
+第一集,https://vip.ffzy-play1.com/20221206/29292_adb67a7e/2000k/hls/mixed.m3u8
+第二集,https://vip.ffzy-play1.com/20221206/29290_3ba10abe/2000k/hls/mixed.m3u8
+第三集,https://vip.ffzy-play1.com/20221206/29291_31077d01/2000k/hls/mixed.m3u8
+第四集,https://vip.ffzy-play1.com/20221206/29294_d94f4f73/2000k/hls/mixed.m3u8
+第五集,https://vip.ffzy-play1.com/20221206/29295_84518fcd/2000k/hls/mixed.m3u8
+第六集,https://vip.ffzy-play1.com/20221206/29293_de4a3e7a/2000k/hls/mixed.m3u8
+第七集,https://vip.ffzy-play1.com/20221206/29297_7d3bf04f/2000k/hls/mixed.m3u8
+第八集,https://vip.ffzy-play1.com/20221206/29296_c714d1dd/2000k/hls/mixed.m3u8
+第九集,https://vip.ffzy-play1.com/20221206/29298_a89c5e0a/2000k/hls/mixed.m3u8
+第十集,https://vip.ffzy-play1.com/20221206/29299_e608ff43/2000k/hls/mixed.m3u8
+第十一集,https://vip.ffzy-play1.com/20221206/29301_b0ded589/2000k/hls/mixed.m3u8
+第十二集,https://vip.ffzy-play1.com/20221206/29300_e027d188/2000k/hls/mixed.m3u8
+第十三集,https://vip.ffzy-play1.com/20221206/29302_592e0330/2000k/hls/mixed.m3u8
+第十四集,https://vip.ffzy-play1.com/20221206/29303_1d2e544b/2000k/hls/mixed.m3u8
+第十五集,https://vip.ffzy-play1.com/20221206/29304_880ade83/2000k/hls/mixed.m3u8
+第十六集,https://vip.ffzy-play1.com/20221206/29305_84c40c63/2000k/hls/mixed.m3u8
+第十七集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC17%E9%9B%86/index.m3u8
+第十八集,https://vip.ffzy-play1.com/20221206/29306_6585cdb5/2000k/hls/mixed.m3u8
+第十九集,https://vip.ffzy-play1.com/20221206/29308_3c59e65e/2000k/hls/mixed.m3u8
+第二十集,https://vip.ffzy-play1.com/20221206/29309_290df0f6/2000k/hls/mixed.m3u8
+第二十一集,https://vip.ffzy-play1.com/20221206/29310_082a9896/2000k/hls/mixed.m3u8
+第二十二集,https://vip.ffzy-play1.com/20221206/29311_92d50069/2000k/hls/mixed.m3u8
+第二十三集,https://vip.ffzy-play1.com/20221206/29312_4d8546bc/2000k/hls/mixed.m3u8
+第二十四集,https://vip.ffzy-play1.com/20221206/29313_096f9ff1/2000k/hls/mixed.m3u8
+第一集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC01%E9%9B%86/index.m3u8
+第二集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC02%E9%9B%86/index.m3u8
+第三集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC03%E9%9B%86/index.m3u8
+第四集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC04%E9%9B%86/index.m3u8
+第五集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC05%E9%9B%86/index.m3u8
+第六集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC06%E9%9B%86/index.m3u8
+第七集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC07%E9%9B%86/index.m3u8
+第八集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC08%E9%9B%86/index.m3u8
+第九集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC09%E9%9B%86/index.m3u8
+第十集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC10%E9%9B%86/index.m3u8
+第十一集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC11%E9%9B%86/index.m3u8
+第十二集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC12%E9%9B%86/index.m3u8
+第十三集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC13%E9%9B%86/index.m3u8
+第十四集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC14%E9%9B%86/index.m3u8
+第十五集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC15%E9%9B%86/index.m3u8
+第十六集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC16%E9%9B%86/index.m3u8
+第十八集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC18%E9%9B%86/index.m3u8
+第十九集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC19%E9%9B%86/index.m3u8
+第二十集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC20%E9%9B%86/index.m3u8
+第二十一集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC21%E9%9B%86/index.m3u8
+第二十二集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC22%E9%9B%86/index.m3u8
+第二十三集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC23%E9%9B%86/index.m3u8
+第二十四集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC24%E9%9B%86/index.m3u8
+
+人大主任,#genre#
+第一集,https://vip.ffzy-play10.com/20230227/31896_bab6ff7a/2000k/hls/mixed.m3u8
+第二集,https://vip.ffzy-play10.com/20230227/31897_b2439b3f/2000k/hls/mixed.m3u8
+第三集,https://vip.ffzy-play10.com/20230227/31917_80e69f50/2000k/hls/mixed.m3u8
+第四集,https://vip.ffzy-play10.com/20230227/31898_f8f9abf4/2000k/hls/mixed.m3u8
+第五集,https://vip.ffzy-play10.com/20230227/31899_9ea74391/2000k/hls/mixed.m3u8
+第六集,https://vip.ffzy-play10.com/20230227/31900_8d5b728e/2000k/hls/mixed.m3u8
+第七集,https://vip.ffzy-play10.com/20230227/31903_bdd1e1e6/2000k/hls/mixed.m3u8
+第八集,https://vip.ffzy-play10.com/20230227/31902_e420fabc/2000k/hls/mixed.m3u8
+第九集,https://vip.ffzy-play10.com/20230227/31901_61c434cc/2000k/hls/mixed.m3u8
+第十集,https://vip.ffzy-play10.com/20230227/31904_3d4eeaca/2000k/hls/mixed.m3u8
+第十一集,https://vip.ffzy-play10.com/20230227/31905_4c61a7ff/2000k/hls/mixed.m3u8
+第十二集,https://vip.ffzy-play10.com/20230227/31906_bcc24ef2/2000k/hls/mixed.m3u8
+第十三集,https://vip.ffzy-play10.com/20230227/31908_c74b4246/2000k/hls/mixed.m3u8
+第十四集,https://vip.ffzy-play10.com/20230227/31907_9377e530/2000k/hls/mixed.m3u8
+第十五集,https://vip.ffzy-play10.com/20230227/31919_5c66cf9d/2000k/hls/mixed.m3u8
+第十六集,https://vip.ffzy-play10.com/20230227/31910_aeee7b86/2000k/hls/mixed.m3u8
+第十七集,https://vip.ffzy-play10.com/20230227/31911_26e57e62/2000k/hls/mixed.m3u8
+第十八集,https://vip.ffzy-play10.com/20230227/31909_4c7b172c/2000k/hls/mixed.m3u8
+第十九集,https://vip.ffzy-play10.com/20230227/31912_79c2ef1c/2000k/hls/mixed.m3u8
+第二十集,https://vip.ffzy-play10.com/20230227/31914_f62ee833/2000k/hls/mixed.m3u8
+第二十一集,https://vip.ffzy-play10.com/20230227/31913_db1fd0e7/2000k/hls/mixed.m3u8
+第二十二集,https://vip.ffzy-play10.com/20230227/31915_94f180b5/2000k/hls/mixed.m3u8
+
+黑洞,#genre#
+第一集,https://vip.lz-cdn6.com/20220908/27180_fd1d4731/1000k/hls/mixed.m3u8
+第二集,https://vip.lz-cdn6.com/20220908/27181_bb76a2be/1000k/hls/mixed.m3u8
+第三集,https://vip.lz-cdn6.com/20220908/27182_43d095aa/1000k/hls/mixed.m3u8
+第四集,https://vip.lz-cdn6.com/20220908/27183_1d794e71/1000k/hls/mixed.m3u8
+第五集,https://vip.lz-cdn6.com/20220908/27184_523d29f2/1000k/hls/mixed.m3u8
+第六集,https://vip.lz-cdn6.com/20220908/27185_13393038/1000k/hls/mixed.m3u8
+第七集,https://vip.lz-cdn6.com/20220908/27186_7a560861/1000k/hls/mixed.m3u8
+第八集,https://vip.lz-cdn6.com/20220908/27187_460fc31f/1000k/hls/mixed.m3u8
+第九集,https://vip.lz-cdn6.com/20220908/27188_69f2bcf5/1000k/hls/mixed.m3u8
+第十集,https://vip.lz-cdn6.com/20220908/27188_69f2bcf5/1000k/hls/mixed.m3u8
+第十一集,https://vip.lz-cdn6.com/20220908/27190_8c91f502/1000k/hls/mixed.m3u8
+第十二集,https://vip.lz-cdn6.com/20220908/27191_592a1914/1000k/hls/mixed.m3u8
+第十三集,https://vip.lz-cdn6.com/20220908/27192_fe73351b/1000k/hls/mixed.m3u8
+第十四集,https://vip.lz-cdn6.com/20220908/27193_f60677ff/1000k/hls/mixed.m3u8
+第十五集,https://vip.lz-cdn6.com/20220908/27194_aebb80e7/1000k/hls/mixed.m3u8
+第十六集,https://vip.lz-cdn6.com/20220908/27195_d9d248b1/1000k/hls/mixed.m3u8
+第十七集,https://vip.lz-cdn6.com/20220908/27196_fcddfff4/1000k/hls/mixed.m3u8
+第十八集,https://vip.lz-cdn6.com/20220908/27197_b54a19ef/1000k/hls/mixed.m3u8
+第十九集,https://vip.lz-cdn6.com/20220908/27198_3a6a8460/1000k/hls/mixed.m3u8
+第二十集,https://vip.lz-cdn6.com/20220908/27199_11bf5643/1000k/hls/mixed.m3u8
+第二十一集,https://vip.lz-cdn6.com/20220908/27200_7f435869/1000k/hls/mixed.m3u8
+第二十二集,https://vip.lz-cdn6.com/20220908/27201_4e6d75a0/1000k/hls/mixed.m3u8
+第二十三集,https://vip.lz-cdn6.com/20220908/27202_c5dce4be/1000k/hls/mixed.m3u8
+第二十四集,https://vip.lz-cdn6.com/20220908/27203_a9761277/1000k/hls/mixed.m3u8
+第二十五集,https://vip.lz-cdn6.com/20220908/27204_16d4fb84/1000k/hls/mixed.m3u8
+第二十六集,https://vip.lz-cdn6.com/20220908/27205_9642c415/1000k/hls/mixed.m3u8
+第二十七集,https://vip.lz-cdn6.com/20220908/27206_79d9ebd5/1000k/hls/mixed.m3u8
+第二十八集,https://vip.lz-cdn6.com/20220908/27207_c3498e1b/1000k/hls/mixed.m3u8
+第二十九集,https://vip.lz-cdn6.com/20220908/27208_66966c33/1000k/hls/mixed.m3u8
+第三十集,https://vip.lz-cdn6.com/20220908/27209_7dfab7ff/1000k/hls/mixed.m3u8
+第三十一集,https://vip.lz-cdn6.com/20220908/27210_4c66cc74/1000k/hls/mixed.m3u8
+
+终极追捕,#genre#
+第一集,https://vip.ffzy-play9.com/20221219/24651_3f2f20c1/2000k/hls/mixed.m3u8
+第二集,https://vip.ffzy-play9.com/20221219/24649_1e36bbe1/2000k/hls/mixed.m3u8
+第三集,https://vip.ffzy-play9.com/20221219/24652_624e8397/2000k/hls/mixed.m3u8
+第四集,https://vip.ffzy-play9.com/20221219/24653_c2eab541/2000k/hls/mixed.m3u8
+第五集,https://vip.ffzy-play9.com/20221219/24654_e3cf9fe7/2000k/hls/mixed.m3u8
+第六集,https://vip.ffzy-play9.com/20221219/24655_a0e33ee5/2000k/hls/mixed.m3u8
+第七集,https://vip.ffzy-play9.com/20221219/24656_57d733bc/2000k/hls/mixed.m3u8
+第八集,https://vip.ffzy-play9.com/20221219/24661_6d02f908/2000k/hls/mixed.m3u8
+第九集,https://vip.ffzy-play9.com/20221219/24660_2ab6ba30/2000k/hls/mixed.m3u8
+第十集,https://vip.ffzy-play9.com/20221219/24657_af8f7870/2000k/hls/mixed.m3u8
+第十一集,https://vip.ffzy-play9.com/20221219/24659_0477ca5a/2000k/hls/mixed.m3u8
+第十二集,https://vip.ffzy-play9.com/20221219/24658_50168433/2000k/hls/mixed.m3u8
+第十三集,https://vip.ffzy-play9.com/20221219/24662_8879298d/2000k/hls/mixed.m3u8
+第十四集,https://vip.ffzy-play9.com/20221219/24665_8e7093aa/2000k/hls/mixed.m3u8
+第十五集,https://vip.ffzy-play9.com/20221219/24667_c4f4a475/2000k/hls/mixed.m3u8
+第十六集,https://vip.ffzy-play9.com/20221219/24664_c3d5643b/2000k/hls/mixed.m3u8
+第十七集,https://vip.ffzy-play9.com/20221219/24666_00c3fe5a/2000k/hls/mixed.m3u8
+第十八集,https://vip.ffzy-play9.com/20221219/24663_bf7ba3c6/2000k/hls/mixed.m3u8
+第十九集,https://vip.ffzy-play9.com/20221219/24669_4611b0cb/2000k/hls/mixed.m3u8
+第二十集,https://vip.ffzy-play9.com/20221219/24668_07af1d34/2000k/hls/mixed.m3u8
+第二十一集,https://vip.ffzy-play9.com/20221219/24670_92488ee7/2000k/hls/mixed.m3u8
+第二十二集,https://vip.ffzy-play9.com/20221219/24671_abc31692/2000k/hls/mixed.m3u8
+第二十三集,https://vip.ffzy-play9.com/20221219/24673_23d03d5e/2000k/hls/mixed.m3u8
+第二十四集,https://vip.ffzy-play9.com/20221219/24672_dd27a668/2000k/hls/mixed.m3u8
+第二十五集,https://vip.ffzy-play9.com/20221219/24674_a5c18a8d/2000k/hls/mixed.m3u8
+第二十六集,https://vip.ffzy-play9.com/20221219/24676_421b1ad9/2000k/hls/mixed.m3u8
+第二十七集,https://vip.ffzy-play9.com/20221219/24677_ba35e54a/2000k/hls/mixed.m3u8
+第二十八集,https://vip.ffzy-play9.com/20221219/24675_eefd2753/2000k/hls/mixed.m3u8
+
+
+新邢警本色,#genre#
+第一集,https://vip.ffzy-online.com/20221031/7727_5ef7cde1/2000k/hls/mixed.m3u8
+第二集,https://vip.ffzy-online.com/20221031/7726_955c5dc3/2000k/hls/mixed.m3u8
+第三集,https://vip.ffzy-online.com/20221031/7731_36d8c7f2/2000k/hls/mixed.m3u8
+第四集,https://vip.ffzy-online.com/20221031/7728_590bec5a/2000k/hls/mixed.m3u8
+第五集,https://vip.ffzy-online.com/20221031/7729_72500224/2000k/hls/mixed.m3u8
+第六集,https://vip.ffzy-online.com/20221031/7730_a78760e9/2000k/hls/mixed.m3u8
+第七集,https://vip.ffzy-online.com/20221031/7735_a9d2c8d1/2000k/hls/mixed.m3u8
+第八集,https://vip.ffzy-online.com/20221031/7732_b07c47cc/2000k/hls/mixed.m3u8
+第九集,https://vip.ffzy-online.com/20221031/7733_f2ea178b/2000k/hls/mixed.m3u8
+第十集,https://vip.ffzy-online.com/20221031/7734_bde9bb80/2000k/hls/mixed.m3u8
+第十一集,https://vip.ffzy-online.com/20221031/7736_c64b25e5/2000k/hls/mixed.m3u8
+第十二集,https://vip.ffzy-online.com/20221031/7738_07ee3368/2000k/hls/mixed.m3u8
+第十三集,https://vip.ffzy-online.com/20221031/7739_a0f63e61/2000k/hls/mixed.m3u8
+第十四集,https://vip.ffzy-online.com/20221031/7737_44c849f2/2000k/hls/mixed.m3u8
+第十五集,https://vip.ffzy-online.com/20221031/7742_6067ee09/2000k/hls/mixed.m3u8
+第十六集,https://vip.ffzy-online.com/20221031/7741_5c79282e/2000k/hls/mixed.m3u8
+第十七集,https://vip.ffzy-online.com/20221031/7740_cb993838/2000k/hls/mixed.m3u8
+第十八集,https://vip.ffzy-online.com/20221031/7745_2c9fcfcf/2000k/hls/mixed.m3u8
+第十九集,https://vip.ffzy-online.com/20221031/7744_f8235e97/2000k/hls/mixed.m3u8
+第二十集,https://vip.ffzy-online.com/20221031/7743_39c9ca94/2000k/hls/mixed.m3u8
+第二十一集,https://vip.ffzy-online.com/20221031/7746_1ca1b003/2000k/hls/mixed.m3u8
+第二十二集,https://vip.ffzy-online.com/20221031/7747_162148de/2000k/hls/mixed.m3u8
+第二十三集,https://vip.ffzy-online.com/20221031/7748_a8d687a4/2000k/hls/mixed.m3u8
+第二十四集,https://vip.ffzy-online.com/20221031/7750_606d0949/2000k/hls/mixed.m3u8
+第二十五集,https://vip.ffzy-online.com/20221031/7749_ee33306b/2000k/hls/mixed.m3u8
+第二十六集,https://vip.ffzy-online.com/20221031/7751_c355f5ec/2000k/hls/mixed.m3u8
+第二十七集,https://vip.ffzy-online.com/20221031/7753_e506a8b6/2000k/hls/mixed.m3u8
+第二十八集,https://vip.ffzy-online.com/20221031/7755_ae0ee1e6/2000k/hls/mixed.m3u8
+第二十九集,https://vip.ffzy-online.com/20221031/7754_cb69c591/2000k/hls/mixed.m3u8
+第三十集,https://vip.ffzy-online.com/20221031/7752_6014109b/2000k/hls/mixed.m3u8
+
+卧底警花,#genre#
+﻿卧底警花 第01集,https://hd.lz-cdn18.com/20230518/2648_16890fcc/index.m3u8
+卧底警花 第02集,https://hd.lz-cdn18.com/20230518/2649_9f6d8b4c/index.m3u8
+卧底警花 第03集,https://hd.lz-cdn18.com/20230518/2650_39f1e1c9/index.m3u8
+卧底警花 第04集,https://hd.lz-cdn18.com/20230518/2651_8a01878a/index.m3u8
+卧底警花 第05集,https://hd.lz-cdn18.com/20230518/2652_a462366d/index.m3u8
+卧底警花 第06集,https://hd.lz-cdn18.com/20230518/2653_7e18b129/index.m3u8
+卧底警花 第07集,https://hd.lz-cdn18.com/20230518/2654_27c019c7/index.m3u8
+卧底警花 第08集,https://hd.lz-cdn18.com/20230518/2655_64742cda/index.m3u8
+卧底警花 第09集,https://hd.lz-cdn18.com/20230518/2656_795f969a/index.m3u8
+卧底警花 第10集,https://hd.lz-cdn18.com/20230518/2657_d6690744/index.m3u8
+卧底警花 第11集,https://hd.lz-cdn18.com/20230518/2658_2b3f3a04/index.m3u8
+卧底警花 第12集,https://vip.lz-cdn12.com/20230526/7533_aa0587fc/index.m3u8
+卧底警花 第13集,https://vip.lz-cdn12.com/20230526/7529_60ab921d/index.m3u8
+卧底警花 第14集,https://vip.lz-cdn12.com/20230526/7532_bce71bcb/index.m3u8
+卧底警花 第15集,https://vip.lz-cdn12.com/20230526/7530_a84cc2ce/index.m3u8
+卧底警花 第16集,https://vip.lz-cdn12.com/20230526/7531_2b6cbcde/index.m3u8
+卧底警花 第17集,https://vip.lz-cdn12.com/20230526/7536_f8efd21c/index.m3u8
+卧底警花 第18集,https://vip.lz-cdn12.com/20230526/7537_cbd24d79/index.m3u8
+卧底警花 第19集,https://vip.lz-cdn12.com/20230526/7534_b8f26515/index.m3u8
+卧底警花 第20集,https://vip.lz-cdn12.com/20230526/7535_3e3d24e2/index.m3u8
+卧底警花 第21集,https://vip.lz-cdn12.com/20230526/7541_2f2c01f0/index.m3u8
+卧底警花 第22集,https://vip.lz-cdn12.com/20230526/7538_29e1a686/index.m3u8
+卧底警花 第23集,https://vip.lz-cdn12.com/20230526/7539_53b809af/index.m3u8
+卧底警花 第24集,https://vip.lz-cdn12.com/20230526/7540_d826b665/index.m3u8
+卧底警花 第25集,https://vip.lz-cdn12.com/20230526/7542_5469951d/index.m3u8
+卧底警花 第26集,https://vip.lz-cdn12.com/20230526/7543_6d59b854/index.m3u8
+卧底警花 第27集,https://vip.lz-cdn12.com/20230526/7544_402a8f35/index.m3u8
+卧底警花 第28集,https://vip.lz-cdn12.com/20230526/7600_61669b0f/index.m3u8
+卧底警花 第29集,https://vip.lz-cdn12.com/20230526/7599_347a05c6/index.m3u8
+卧底警花 第30集,https://hd.lz-cdn18.com/20230527/2919_5f429b19/index.m3u8
+
+
+刑警本色,#genre#
+第一集,https://vip.lz-cdn6.com/20220723/19479_dfe93a65/1000k/hls/mixed.m3u8
+第二集,https://vip.lz-cdn6.com/20220723/19480_a7b18875/1000k/hls/mixed.m3u8
+第三集,https://vip.lz-cdn6.com/20220723/19481_693f0b21/1000k/hls/mixed.m3u8
+第四集,https://vip.lz-cdn6.com/20220723/19482_5744733a/1000k/hls/mixed.m3u8
+第五集,https://vip.lz-cdn6.com/20220723/19483_d70d2a9f/1000k/hls/mixed.m3u8
+第六集,https://vip.lz-cdn6.com/20220723/19484_f9f6fc46/1000k/hls/mixed.m3u8
+第七集,https://vip.lz-cdn6.com/20220723/19485_e0646825/1000k/hls/mixed.m3u8
+第八集,https://vip.lz-cdn6.com/20220723/19486_a98c4965/1000k/hls/mixed.m3u8
+第九集,https://vip.lz-cdn6.com/20220723/19487_89b0a590/1000k/hls/mixed.m3u8
+第十集,https://vip.lz-cdn6.com/20220723/19488_6c1c4561/1000k/hls/mixed.m3u8
+第十一集,https://vip.lz-cdn6.com/20220723/19489_7227a522/1000k/hls/mixed.m3u8
+第十二集,https://vip.lz-cdn6.com/20220723/19490_d053885f/1000k/hls/mixed.m3u8
+第十三集,https://vip.lz-cdn6.com/20220723/19491_2cc708ed/1000k/hls/mixed.m3u8
+第十四集,https://vip.lz-cdn6.com/20220723/19492_926d4a80/1000k/hls/mixed.m3u8
+第十五集,https://vip.lz-cdn6.com/20220723/19493_480cfe99/1000k/hls/mixed.m3u8
+第十六集,https://vip.lz-cdn6.com/20220723/19494_4f450fbf/1000k/hls/mixed.m3u8
+第十七集,https://vip.lz-cdn6.com/20220723/19495_f009b4d7/1000k/hls/mixed.m3u8
+第十八集,https://vip.lz-cdn6.com/20220723/19496_c58cc1a8/1000k/hls/mixed.m3u8
+第十九集,https://vip.lz-cdn6.com/20220723/19497_e24a0751/1000k/hls/mixed.m3u8
+第二十集,https://vip.lz-cdn6.com/20220723/19498_336fb7fb/1000k/hls/mixed.m3u8
+第二十一集,https://vip.lz-cdn6.com/20220723/19499_c3091c9f/1000k/hls/mixed.m3u8
+第二十二集,https://vip.lz-cdn6.com/20220723/19500_330da726/1000k/hls/mixed.m3u8
+刑警使命,#genre#
+第一集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC01%E9%9B%86/index.m3u8
+第二集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC02%E9%9B%86/index.m3u8
+第三集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC03%E9%9B%86/index.m3u8
+第四集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC04%E9%9B%86/index.m3u8
+第五集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC05%E9%9B%86/index.m3u8
+第六集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC05%E9%9B%86/index.m3u8
+第七集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC07%E9%9B%86/index.m3u8
+第八集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC08%E9%9B%86/index.m3u8
+第九集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC09%E9%9B%86/index.m3u8
+第十集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC10%E9%9B%86/index.m3u8
+第十一集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC11%E9%9B%86/index.m3u8
+第十二集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC12%E9%9B%86/index.m3u8
+第十三集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC13%E9%9B%86/index.m3u8
+第十四集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC14%E9%9B%86/index.m3u8
+第十五集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC15%E9%9B%86/index.m3u8
+第十六集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC16%E9%9B%86/index.m3u8
+第十七集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC17%E9%9B%86/index.m3u8
+第十八集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC18%E9%9B%86/index.m3u8
+第十九集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC19%E9%9B%86/index.m3u8
+第二十集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC20%E9%9B%86/index.m3u8
+第二十一集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC21%E9%9B%86/index.m3u8
+第二十二集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC22%E9%9B%86/index.m3u8
+第二十三集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC23%E9%9B%86/index.m3u8
+第二十四集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC24%E9%9B%86/index.m3u8
+第二十五集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC25%E9%9B%86/index.m3u8
+第二十六集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC26%E9%9B%86/index.m3u8
+第二十七集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC27%E9%9B%86/index.m3u8
+第二十八集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC28%E9%9B%86/index.m3u8
+刑警队长,#genre#
+第一集,https://vip.ffzy-play1.com/20221104/10904_4fcdc90e/2000k/hls/mixed.m3u8
+第二集,https://vip.ffzy-play1.com/20221104/10905_9fb9758e/2000k/hls/mixed.m3u8
+第三集,https://vip.ffzy-play1.com/20221104/10907_ff569aec/2000k/hls/mixed.m3u8
+第四集,https://vip.ffzy-play1.com/20221104/10906_f2b3b6b6/2000k/hls/mixed.m3u8
+第五集,https://vip.ffzy-play1.com/20221104/10910_4107c471/2000k/hls/mixed.m3u8
+第六集,https://vip.ffzy-play1.com/20221104/10909_2b1faf0d/2000k/hls/mixed.m3u8
+第七集,https://vip.ffzy-play1.com/20221104/10908_63fbb5f4/2000k/hls/mixed.m3u8
+第八集,https://vip.ffzy-play1.com/20221104/10914_65475183/2000k/hls/mixed.m3u8
+第九集,https://vip.ffzy-play1.com/20221104/10913_b83920a0/2000k/hls/mixed.m3u8
+第十集,https://vip.ffzy-play1.com/20221104/10915_933be49b/2000k/hls/mixed.m3u8
+第十一集,https://vip.ffzy-play1.com/20221104/10911_3b3a43a5/2000k/hls/mixed.m3u8
+第十二集,https://vip.ffzy-play1.com/20221104/10912_6ce3ca8b/2000k/hls/mixed.m3u8
+第十三集,https://vip.ffzy-play1.com/20221104/10916_660002b0/2000k/hls/mixed.m3u8
+第十四集,https://vip.ffzy-play1.com/20221104/10919_0fd6518f/2000k/hls/mixed.m3u8
+第十五集,https://vip.ffzy-play1.com/20221104/10917_e173de85/2000k/hls/mixed.m3u8
+第十六集,https://vip.ffzy-play1.com/20221104/10920_583bf307/2000k/hls/mixed.m3u8
+第十七集,https://vip.ffzy-play1.com/20221104/10918_344d89d7/2000k/hls/mixed.m3u8
+第十八集,https://vip.ffzy-play1.com/20221104/10921_dc912539/2000k/hls/mixed.m3u8
+第十九集,https://vip.ffzy-play1.com/20221104/10922_accfddd7/2000k/hls/mixed.m3u8
+第二十集,https://vip.ffzy-play1.com/20221104/10924_de036524/2000k/hls/mixed.m3u8
+第二十一集,https://vip.ffzy-play1.com/20221104/10925_9ff9fc6f/2000k/hls/mixed.m3u8
+第二十二集,https://vip.ffzy-play1.com/20221104/10923_e3dbee12/2000k/hls/mixed.m3u8
+第二十三集,https://vip.ffzy-play1.com/20221104/10926_7b6f13f5/2000k/hls/mixed.m3u8
+第二十四集,https://vip.ffzy-play1.com/20221104/10928_1409f5fa/2000k/hls/mixed.m3u8
+第二十五集,https://vip.ffzy-play1.com/20221104/10927_32bd28f8/2000k/hls/mixed.m3u8
+第二十六集,https://vip.ffzy-play1.com/20221104/10930_bf9e1286/2000k/hls/mixed.m3u8
+第二十七集,https://vip.ffzy-play1.com/20221104/10929_b74cafb0/2000k/hls/mixed.m3u8
+第二十八集,https://vip.ffzy-play1.com/20221104/10932_5266901b/2000k/hls/mixed.m3u8
+第二十九集,https://vip.ffzy-play1.com/20221104/10931_ffced2bc/2000k/hls/mixed.m3u8
+第三十集,https://vip.ffzy-play1.com/20221104/10933_7bd5b9c9/2000k/hls/mixed.m3u8
+第三十一集,https://vip.ffzy-play1.com/20221104/10934_2f2e60d1/2000k/hls/mixed.m3u8
+第三十二集,https://vip.ffzy-play1.com/20221104/10935_9795c052/2000k/hls/mixed.m3u8
+第三十三集,https://vip.ffzy-play1.com/20221104/10936_c917f64e/2000k/hls/mixed.m3u8
+第三十四集,https://vip.ffzy-play1.com/20221104/10939_5f95174b/2000k/hls/mixed.m3u8
+第三十五集,https://vip.ffzy-play1.com/20221104/10937_f7365ab3/2000k/hls/mixed.m3u8
+第三十六集,https://vip.ffzy-play1.com/20221104/10940_1c2384d2/2000k/hls/mixed.m3u8
+夺命提示,#genre#
+
+1,https://v.cdnlz12.com/20250317/19351_0f67d830/index.m3u8$第1集
+2,https://v.cdnlz12.com/20250318/19420_dcf02732/index.m3u8$第2集
+3,https://v.cdnlz12.com/20250319/19498_d739d3fd/index.m3u8$第3集
+4,https://v.cdnlz12.com/20250320/19552_90242c25/index.m3u8$第4集
+5,https://v.cdnlz12.com/20250321/19659_225de0f1/index.m3u8$第5集
+6,https://v.cdnlz12.com/20250324/19772_4590e7ad/index.m3u8$第6集
+7,https://v.cdnlz12.com/20250325/19821_10eb01f3/index.m3u8$第7集
+8,https://v.cdnlz12.com/20250326/19863_8ab6e64e/index.m3u8$第8集
+9,https://v.cdnlz12.com/20250327/19927_7fe8dd24/index.m3u8$第9集
+10,https://v.cdnlz12.com/20250328/20018_2eaedd5e/index.m3u8$第10集
+11,https://v.cdnlz12.com/20250331/20189_8c7868d1/index.m3u8$第11集
+12,https://v.cdnlz12.com/20250401/20256_01b3e17f/index.m3u8$第12集
+13,https://v.cdnlz12.com/20250402/20312_94f54718/index.m3u8$第13集
+14,https://v.cdnlz12.com/20250403/20390_71d524b3/index.m3u8$第14集
+15,https://v.cdnlz12.com/20250404/20445_7152b232/index.m3u8$第15集
+16,https://v.cdnlz12.com/20250407/20568_b795e701/index.m3u8$第16集
+17,https://v.cdnlz12.com/20250408/20654_b2384f0b/index.m3u8$第17集
+18,https://v.cdnlz12.com/20250409/20739_72bdf31b/index.m3u8$第18集
+19,https://v.cdnlz12.com/20250410/20800_a42770a3/index.m3u8$第19集
+20,https://v.cdnlz12.com/20250411/20876_22989e08/index.m3u8$第20集
+21,https://v.cdnlz12.com/20250414/21056_6f3e251d/index.m3u8$第21集
+22,https://v.cdnlz12.com/20250415/21116_4ee17f32/index.m3u8$第22集
+23,https://v.cdnlz12.com/20250416/21169_df3b3bc4/index.m3u8$第23集
+24,https://v.cdnlz12.com/20250417/21246_0e92995a/index.m3u8$第24集
+25,https://v.cdnlz12.com/20250418/21329_e32ccdfb/index.m3u8$第25集
+26,https://v.cdnlz12.com/20250421/21460_f45b718a/index.m3u8$第26集
+27,https://v.cdnlz12.com/20250422/21572_9dcf9488/index.m3u8$第27集
+28,https://v.cdnlz12.com/20250423/21630_5bf202ab/index.m3u8$第28集
+29,https://v.cdnlz12.com/20250424/21665_339c53e3/index.m3u8$第29集
+30,https://v.cdnlz12.com/20250425/21725_e6915398/index.m3u8$第30集大结局
+绝密较量,#genre#
+
+1,https://svip.high25-playback.com/20250428/25246_873111df/index.m3u8$第1集
+2,https://svip.high25-playback.com/20250428/25247_6ab5309c/index.m3u8$第2集
+3,https://svip.high25-playback.com/20250428/25248_78c9b2fe/index.m3u8$第3集
+4,https://svip.high25-playback.com/20250428/25249_4ec74784/index.m3u8$第4集
+5,https://svip.high25-playback.com/20250429/25296_bb97e7d1/index.m3u8$第5集
+6,https://svip.high25-playback.com/20250429/25297_8a72ae26/index.m3u8$第6集
+7,https://svip.high25-playback.com/20250430/25468_7b5f37cf/index.m3u8$第7集
+8,https://svip.high25-playback.com/20250430/25469_b575e1f6/index.m3u8$第8集
+9,https://cdn.yzzy27-play.com/20250506/2232_3e6260b8/index.m3u8$第9集
+10,https://cdn.yzzy27-play.com/20250506/2233_e0f7a4d0/index.m3u8$第10集
+11,https://cdn.yzzy27-play.com/20250507/2315_88bfcf02/index.m3u8$第11集
+12,https://cdn.yzzy27-play.com/20250507/2316_778609db/index.m3u8$第12集
+13,https://vvip.high26-playback.com/20250508/6187_0e1bacf0/index.m3u8$第13集
+14,https://vvip.high26-playback.com/20250508/6188_30893a5e/index.m3u8$第14集
+无处藏身,#genre#
+
+第一集,https://vip.lz-cdn9.com/20220729/14012_da85049a/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二集,https://vip.lz-cdn9.com/20220729/14014_ca41f066/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第三集,https://vip.lz-cdn9.com/20220729/14013_017d35e1/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第四集,https://vip.lz-cdn9.com/20220729/14015_d2ceca76/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第五集,https://vip.lz-cdn9.com/20220729/14016_a0e087c3/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第六集,https://vip.lz-cdn9.com/20220729/14017_5dc1642d/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第七集,https://vip.lz-cdn9.com/20220729/14018_31bbf82e/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第八集,https://vip.lz-cdn9.com/20220729/14019_af33eac9/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第九集,https://vip.lz-cdn9.com/20220729/14020_1c9cc890/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十集,https://vip.lz-cdn9.com/20220729/14021_9945be03/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十一集,https://vip.lz-cdn9.com/20220729/14022_8a30e1fa/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十二集,https://vip.lz-cdn9.com/20220729/14023_c5b6c504/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十三集,https://vip.lz-cdn9.com/20220729/14025_1bc7811a/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十四集,https://vip.lz-cdn9.com/20220729/14024_6982d4b4/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十五集,https://vip.lz-cdn9.com/20220729/14027_e2d09656/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十六集,https://vip.lz-cdn9.com/20220729/14026_64006886/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十七集,https://vip.lz-cdn9.com/20220729/14029_7328a2ad/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十八集,https://vip.lz-cdn9.com/20220729/14028_e12d07d0/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第十九集,https://vip.lz-cdn9.com/20220729/14030_58167375/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十集,https://vip.lz-cdn9.com/20220729/14032_9f2d2dcc/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十一集,https://vip.lz-cdn9.com/20220729/14031_65556b67/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十二集,https://vip.lz-cdn9.com/20220729/14033_c995a1fc/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十三集,https://vip.lz-cdn9.com/20220729/14034_1857e8f4/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十四集,https://vip.lz-cdn9.com/20220729/14036_b27ac4d4/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+第二十五集,https://vip.lz-cdn9.com/20220729/14035_098c12b1/1000k/hls/mixed.m3u8#http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851&from=1011851
+
+天不藏奸,#genre#
+第一集,https://vip.ffzy-online3.com/20230125/5611_3fa09d00/2000k/hls/mixed.m3u8
+第二集,https://vip.ffzy-online3.com/20230125/5612_25ae3b1d/2000k/hls/mixed.m3u8
+第三集,https://vip.ffzy-online3.com/20230125/5610_16ef7d8a/2000k/hls/mixed.m3u8
+第四集,https://vip.ffzy-online3.com/20230125/5609_94da62b7/2000k/hls/mixed.m3u8
+第五集,https://vip.ffzy-online3.com/20230125/5615_327e4ee4/2000k/hls/mixed.m3u8
+第六集,https://vip.ffzy-online3.com/20230125/5617_342dcc49/2000k/hls/mixed.m3u8
+第七集,https://vip.ffzy-online3.com/20230125/5613_bfb1f235/2000k/hls/mixed.m3u8
+第八集,https://vip.ffzy-online3.com/20230125/5616_8bfd479c/2000k/hls/mixed.m3u8
+第九集,https://vip.ffzy-online3.com/20230125/5614_171e47c3/2000k/hls/mixed.m3u8
+第十集,https://vip.ffzy-online3.com/20230125/5618_93ad0e34/2000k/hls/mixed.m3u8
+第十一集,https://vip.ffzy-online3.com/20230125/5619_aa8e9a63/2000k/hls/mixed.m3u8
+第十二集,https://vip.ffzy-online3.com/20230125/5621_13ea5b1a/2000k/hls/mixed.m3u8
+第十三集,https://vip.ffzy-online3.com/20230125/5620_54cff083/2000k/hls/mixed.m3u8
+第十四集,https://vip.ffzy-online3.com/20230125/5622_5fdcaf8a/2000k/hls/mixed.m3u8
+第十五集,https://vip.ffzy-online3.com/20230125/5624_1794ae1c/2000k/hls/mixed.m3u8
+第十六集,https://vip.ffzy-online3.com/20230125/5635_8f1a95da/2000k/hls/mixed.m3u8
+第十七集,https://vip.ffzy-online3.com/20230125/5634_b29f9d73/2000k/hls/mixed.m3u8
+第十八集,https://vip.ffzy-online3.com/20230125/5623_20112d3a/2000k/hls/mixed.m3u8
+第十九集,https://vip.ffzy-online3.com/20230125/5625_496901ef/2000k/hls/mixed.m3u8
+第二十集,https://vip.ffzy-online3.com/20230125/5626_6581aab9/2000k/hls/mixed.m3u8
+第二十一集,https://vip.ffzy-online3.com/20230125/5627_7e9362da/2000k/hls/mixed.m3u8
+第二十二集,https://vip.ffzy-online3.com/20230125/5628_1763151d/2000k/hls/mixed.m3u8
+第二十三集,https://vip.ffzy-online3.com/20230125/5631_2b9f8ac3/2000k/hls/mixed.m3u8
+第二十四集,https://vip.ffzy-online3.com/20230125/5629_202f64d0/2000k/hls/mixed.m3u8
+第二十五集,https://vip.ffzy-online3.com/20230125/5633_84814660/2000k/hls/mixed.m3u8
+第二十六集,https://vip.ffzy-online3.com/20230125/5632_48cd11ac/2000k/hls/mixed.m3u8
+第二十七集,https://vip.ffzy-online3.com/20230125/5630_0b2b3b22/2000k/hls/mixed.m3u8
+第二十八集,https://vip.ffzy-online3.com/20230125/5636_49642248/2000k/hls/mixed.m3u8
+
+
+罪域,#genre#
+罪域:https://www.dmxq15.com/voddetail/49994.html
+罪域 第一集,https://vip.ffzy-play.com/20221128/26474_e62966b6/2000k/hls/mixed.m3u8
+罪域 第二集,https://vip.ffzy-play.com/20221128/26476_a1b3466b/2000k/hls/mixed.m3u8
+罪域 第三集,https://vip.ffzy-play.com/20221128/26477_20be2d3e/2000k/hls/mixed.m3u8
+罪域 第四集,https://vip.ffzy-play.com/20221128/26475_6d0315d8/2000k/hls/mixed.m3u8
+罪域 第五集,https://vip.ffzy-play.com/20221128/26478_d91325c1/2000k/hls/mixed.m3u8
+罪域 第六集,https://vip.ffzy-play.com/20221128/26479_9468e7d5/2000k/hls/mixed.m3u8
+罪域 第七集,https://vip.ffzy-play.com/20221128/26480_de86df6b/2000k/hls/mixed.m3u8
+罪域 第八集,https://vip.ffzy-play.com/20221128/26481_48787e48/2000k/hls/mixed.m3u8
+罪域 第九集,https://vip.ffzy-play.com/20221128/26484_d9c0d5e1/2000k/hls/mixed.m3u8
+罪域 第十集,https://vip.ffzy-play.com/20221128/26482_67bc4510/2000k/hls/mixed.m3u8
+罪域 第十一集,https://vip.ffzy-play.com/20221128/26483_7a536b62/2000k/hls/mixed.m3u8
+罪域 第十二集,https://vip.ffzy-play.com/20221128/26485_d9d11b8c/2000k/hls/mixed.m3u8
+罪域 第十三集,https://vip.ffzy-play.com/20221128/26486_c01448fe/2000k/hls/mixed.m3u8
+罪域 第十四集,https://vip.ffzy-play.com/20221128/26489_93566117/2000k/hls/mixed.m3u8
+罪域 第十五集,https://vip.ffzy-play.com/20221128/26487_0436b239/2000k/hls/mixed.m3u8
+罪域 第十六集,https://vip.ffzy-play.com/20221128/26488_9188f851/2000k/hls/mixed.m3u8
+罪域 第十七集,https://vip.ffzy-play.com/20221128/26491_7e11d1cd/2000k/hls/mixed.m3u8
+罪域 第十八集,https://vip.ffzy-play.com/20221128/26490_80b3bf62/2000k/hls/mixed.m3u8
+罪域 第十九集,https://vip.ffzy-play.com/20221128/26492_82960a67/2000k/hls/mixed.m3u8
+罪域 第二十集,https://vip.ffzy-play.com/20221128/26494_9671d469/2000k/hls/mixed.m3u8
+罪域 第二十一集,https://vip.ffzy-play.com/20221128/26493_5fe5bf14/2000k/hls/mixed.m3u8
+罪域 第二十二集,https://vip.ffzy-play.com/20221128/26495_a3c1c2b4/2000k/hls/mixed.m3u8
+罪域 第二十三集,https://vip.ffzy-play.com/20221128/26497_4c2acc39/2000k/hls/mixed.m3u8
+罪域 第二十四集,https://vip.ffzy-play.com/20221128/26496_618ef2ca/2000k/hls/mixed.m3u8
+罪域 第二十五集,https://vip.ffzy-play.com/20221128/26499_59cbaa47/2000k/hls/mixed.m3u8
+罪域 第二十六集,https://vip.ffzy-play.com/20221128/26498_997e397f/2000k/hls/mixed.m3u8
+罪域 第二十七集,https://vip.ffzy-play.com/20221128/26500_58a6bb3e/2000k/hls/mixed.m3u8
+罪域 第二十八集,https://vip.ffzy-play.com/20221128/26501_2b78b7ec/2000k/hls/mixed.m3u8
+罪域 第二十九集,https://vip.ffzy-play.com/20221128/26503_0abaa21d/2000k/hls/mixed.m3u8
+罪域 第三十集,https://vip.ffzy-play.com/20221128/26502_935b27fe/2000k/hls/mixed.m3u8
+罪域 第三十一集,https://vip.ffzy-play.com/20221128/26505_980768d0/2000k/hls/mixed.m3u8
+罪域 第三十二集,https://vip.ffzy-play.com/20221128/26504_2fd7fadf/2000k/hls/mixed.m3u8
+罪域 第三十三集,https://vip.ffzy-play.com/20221128/26506_cc7f0fc6/2000k/hls/mixed.m3u8
+罪域 第三十四集,https://vip.ffzy-play.com/20221128/26508_83ece9df/2000k/hls/mixed.m3u8
+罪域 第三十五集,https://vip.ffzy-play.com/20221128/26507_14969e65/2000k/hls/mixed.m3u8
+罪域 第三十六集,https://vip.ffzy-play.com/20221128/26509_71204c80/2000k/hls/mixed.m3u8
+罪域 第三十七集,https://vip.ffzy-play.com/20221128/26510_90991571/2000k/hls/mixed.m3u8
+罪域 第三十八集,https://vip.ffzy-play.com/20221128/26511_6ce15775/2000k/hls/mixed.m3u8
+
+
+
+
+
+
+
+
+铁血警魂,#genre#
+1,https://vip.ffzy-play1.com/20221230/43782_280b571d/2000k/hls/mixed.m3u8
+2,https://vip.ffzy-play1.com/20221230/43781_0bcf5cdc/2000k/hls/mixed.m3u8
+3,https://vip.ffzy-play1.com/20221230/43779_f67c32b7/2000k/hls/mixed.m3u8
+4,https://vip.ffzy-play1.com/20221230/43780_b2577409/2000k/hls/mixed.m3u8
+5,https://vip.ffzy-play1.com/20221230/43784_e6914af4/2000k/hls/mixed.m3u8
+6,https://vip.ffzy-play1.com/20221230/43783_6f84142b/2000k/hls/mixed.m3u8
+7,https://vip.ffzy-play1.com/20221230/43785_51cc0f80/2000k/hls/mixed.m3u8
+8,https://vip.ffzy-play1.com/20221230/43786_8950f42b/2000k/hls/mixed.m3u8
+9,https://vip.ffzy-play1.com/20221230/43788_de37ea58/2000k/hls/mixed.m3u8
+10,https://vip.ffzy-play1.com/20221230/43787_1207b9ce/2000k/hls/mixed.m3u8
+11,https://vip.ffzy-play1.com/20221230/43789_4161a841/2000k/hls/mixed.m3u8
+12,https://vip.ffzy-play1.com/20221230/43790_258659ee/2000k/hls/mixed.m3u8
+13,https://vip.ffzy-play1.com/20221230/43792_6a557b27/2000k/hls/mixed.m3u8
+14,https://vip.ffzy-play1.com/20221230/43791_99567c02/2000k/hls/mixed.m3u8
+15,https://vip.ffzy-play1.com/20221230/43793_e2f4a16d/2000k/hls/mixed.m3u8
+16,https://vip.ffzy-play1.com/20221230/43795_7bd3a347/2000k/hls/mixed.m3u8
+17,https://vip.ffzy-play1.com/20221230/43797_dd3602f9/2000k/hls/mixed.m3u8
+18,https://vip.ffzy-play1.com/20221230/43794_6d3cc668/2000k/hls/mixed.m3u8
+19,https://vip.ffzy-play1.com/20221230/43798_71a7d28d/2000k/hls/mixed.m3u8
+
+
+黑白局,#genre#
+黑白局第01集,http://jx.999315.xyz/ffzy/20250905/45005_d5f8ca8f/index.m3u8
+黑白局第02集,http://jx.999315.xyz/ffzy/20250905/45006_19d5254b/index.m3u8
+黑白局第03集,http://jx.999315.xyz/ffzy/20250905/45007_7ffc7d51/index.m3u8
+黑白局第04集,http://jx.999315.xyz/ffzy/20250905/45008_b816130e/index.m3u8
+黑白局第05集,http://jx.999315.xyz/ffzy/20250906/45035_0c2da1c3/index.m3u8
+黑白局第06集,http://jx.999315.xyz/ffzy/20250906/45036_abb2e494/index.m3u8
+黑白局第07集,http://jx.999315.xyz/yzzy/20250907/14539_289811f8/index.m3u8
+黑白局第08集,http://jx.999315.xyz/yzzy/20250907/14540_5694b3b8/index.m3u8
+黑白局第09集,http://jx.999315.xyz/yzzy/20250908/14618_030d13e4/index.m3u8
+黑白局第10集,http://jx.999315.xyz/yzzy/20250908/14619_6bbd80b0/index.m3u8
+黑白局第11集,http://jx.999315.xyz/yzzy/20250909/18680_8217a05f/index.m3u8
+黑白局第12集,http://jx.999315.xyz/yzzy/20250909/18681_e633725b/index.m3u8
+黑白局第13集,http://jx.999315.xyz/yzzy/20250910/14906_af7f963b/index.m3u8
+黑白局第14集,http://jx.999315.xyz/yzzy/20250911/14999_3493d96f/index.m3u8
+黑白局第15集,http://jx.999315.xyz/yzzy/20250912/19102_7ab581c3/index.m3u8
+黑白局第16集,http://jx.999315.xyz/yzzy/20250913/19198_585af24e/index.m3u8
+黑白局第17集,http://jx.999315.xyz/yzzy/20250914/19363_af141196/index.m3u8
+黑白局第18集,http://jx.999315.xyz/yzzy/20250914/1840_201d7288/index.m3u8
+黑白局第19集,http://jx.999315.xyz/yzzy/20250914/22925_8b7450db/index.m3u8
+黑白局第20集,http://jx.999315.xyz/ffzy/20250914/45338_378445dd/index.m3u8
+
+
+不眠日,#genre#
+不眠日第01集,http://jx.999315.xyz/ffzy/20250917/45416_24584682/index.m3u8
+不眠日第02集,http://jx.999315.xyz/ffzy/20250917/45417_904c8fb9/index.m3u8
+不眠日第03集,http://jx.999315.xyz/ffzy/20250917/45418_ede3df7d/index.m3u8
+不眠日第04集,http://jx.999315.xyz/ffzy/20250917/45419_32bb7c61/index.m3u8
+不眠日第05集,http://jx.999315.xyz/ffzy/20250917/45420_8c67b58f/index.m3u8
+不眠日第06集,http://jx.999315.xyz/ffzy/20250918/45470_50db11aa/index.m3u8
+不眠日第07集,http://jx.999315.xyz/ffzy/20250918/45471_e71fc4c3/index.m3u8
+不眠日第08集,http://jx.999315.xyz/ffzy/20250919/45516_83507bf9/index.m3u8
+不眠日第09集,http://jx.999315.xyz/ffzy/20250919/45517_b268182b/index.m3u8
+不眠日第10集,http://jx.999315.xyz/ffzy/20250920/45556_47f6859a/index.m3u8
+不眠日第11集,http://jx.999315.xyz/ffzy/20250920/45557_e4eb1d8f/index.m3u8
+不眠日第12集,http://jx.999315.xyz/ffzy/20250921/45593_7091da5a/index.m3u8
+不眠日第13集,http://jx.999315.xyz/ffzy/20250921/45594_5033fd9c/index.m3u8
+不眠日第14集,http://jx.999315.xyz/ffzy/20250921/45595_12fab7a1/index.m3u8
+不眠日第15集,http://jx.999315.xyz/ffzy/20250921/45596_7532e11f/index.m3u8
+不眠日第16集,http://jx.999315.xyz/ffzy/20250921/45597_f7b80214/index.m3u8
+
